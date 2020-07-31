@@ -1,3 +1,3 @@
-# Facial_Expression_Recognition_Using_GCN
+# Facial_Expression_Recognition_GCN
 
 Requires setup the package for Gabor Convolutional networks https://github.com/bczhangbczhang
